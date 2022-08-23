@@ -1,0 +1,4 @@
+numpy
+scipy
+fast-histogram==0.9
+tifffile==2020.2.16
